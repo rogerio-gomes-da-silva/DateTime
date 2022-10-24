@@ -1,0 +1,8 @@
+C:\Users\rogerio\source\repos\DataTime\DataTime\obj\Debug\net6.0-windows\DateTime.csproj.AssemblyReference.cache
+C:\Users\rogerio\source\repos\DataTime\DataTime\obj\Debug\net6.0-windows\DataTime.Form1.resources
+C:\Users\rogerio\source\repos\DataTime\DataTime\obj\Debug\net6.0-windows\DateTime.Properties.Resources.resources
+C:\Users\rogerio\source\repos\DataTime\DataTime\obj\Debug\net6.0-windows\DateTime.csproj.GenerateResource.cache
+C:\Users\rogerio\source\repos\DataTime\DataTime\obj\Debug\net6.0-windows\DateTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rogerio\source\repos\DataTime\DataTime\obj\Debug\net6.0-windows\DateTime.AssemblyInfoInputs.cache
+C:\Users\rogerio\source\repos\DataTime\DataTime\obj\Debug\net6.0-windows\DateTime.AssemblyInfo.cs
+C:\Users\rogerio\source\repos\DataTime\DataTime\obj\Debug\net6.0-windows\DateTime.csproj.CoreCompileInputs.cache
